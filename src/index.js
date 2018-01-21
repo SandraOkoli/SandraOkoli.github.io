@@ -1,11 +1,29 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter } from 'react-router-dom';
-import App from './components/App';
+
+import { BrowserRouter as Router } from 'react-router-dom';
+
+import './scss/style.scss';
+import 'bootstrap-css-only';
+
+import Scroll from './components/utils/Scroll';
+
+
+class App extends React.Component() {
+  render () {
+    return (
+      <div>
+        <main>
+          <Scroll/>
+        </main>
+      </div>
+    );
+  }
+}
 
 ReactDOM.render(
-  <BrowserRouter>
+  <Router>
     <App />
-  </BrowserRouter>,
+  </Router>,
   document.getElementById('root'),
 );
