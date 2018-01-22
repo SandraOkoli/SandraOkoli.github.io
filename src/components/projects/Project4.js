@@ -22,7 +22,7 @@ const Project4 = () =>  {
               <i className="devicon-php-plain"></i>
             </div>
             <a href="https://enigmatic-woodland-29313.herokuapp.com/">Launch Project</a>
-            <a href="https://github.com/SandraOkoli/WDI_PROJECT_1">Readme</a>
+            <a href="https://github.com/SandraOkoli/WDI_PROJECT_1">View Code</a>
           </div>
         </div>
       </div>

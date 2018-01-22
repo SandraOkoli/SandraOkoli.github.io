@@ -25,7 +25,7 @@ const Project2 = () =>  {
               <i className="devicon-bower-plain-wordmark"></i>
             </div>
             <a href="#">Launch Project</a>
-            <a href="www.github.com">Readme</a>
+            <a href="https://github.com/SandraOkoli/WDI_GROUP_PROJECT">View Code</a>
           </div>
         </div>
       </div>

@@ -27,7 +27,7 @@ const Project1 = () => {
               <i className="devicon-webpack-plain-wordmark"></i>
             </div>
             <a href="https://warm-river-92816.herokuapp.com/">Launch Project</a>
-            <a href="http://www.github.com">Readme</a>
+            <a href="http://www.github.com">View Code</a>
           </div>
         </div>
       </div>

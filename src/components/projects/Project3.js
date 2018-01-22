@@ -22,7 +22,7 @@ const Project3 = () =>  {
               <i className="devicon-sass-original"></i>
             </div>
             <a href="https://hidden-reaches-31565.herokuapp.com/">Launch Project</a>
-            <a href="http://github.com">Readme</a>
+            <a href="https://github.com/SandraOkoli/WDI_PROJECT_2">View Code</a>
           </div>
         </div>
       </div>
