@@ -4,9 +4,10 @@ const Project3 = () =>  {
   return (
     <div className="container">
       <h3>GA Yearbook</h3>
+      <hr/>
       <div className="row">
         <div className="col-md-6">
-          <img className="img-responsive"     src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQXUhsxjEQ0SwKRb0Wxg7OzvG-n_eTUAR5CS5lgcsctrccxSpF"/>
+          <img className="img-responsive" src="https://image.ibb.co/hsRrYb/yearbook_mac.png"/>
         </div>
         <div className="row">
           <div className="col-md-6">

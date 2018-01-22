@@ -14,7 +14,7 @@
   "author": "Rafael Pedicini <code@rafrex.com>",
   "license": "MIT",
   "dependencies": {
-    "bootstrap-css-only": "^4.0.0",
+    "bootstrap-css-only": "^3.3.7",
     "hover.css": "^2.2.1",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",

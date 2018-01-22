@@ -4,6 +4,7 @@ const Project4 = () =>  {
   return (
     <div className="container">
       <h3>Slap a Doll</h3>
+      <hr/>
       <div className="row">
         <div className="col-md-6">
           <img className="img-responsive" src="https://image.ibb.co/mxpmrm/slap_a_doll_mac.png" />
@@ -21,7 +22,7 @@ const Project4 = () =>  {
               <i className="devicon-php-plain"></i>
             </div>
             <a href="https://enigmatic-woodland-29313.herokuapp.com/">Launch Project</a>
-            <a href="http://github.com">Readme</a>
+            <a href="https://github.com/SandraOkoli/WDI_PROJECT_1">Readme</a>
           </div>
         </div>
       </div>

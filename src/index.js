@@ -9,7 +9,7 @@ import 'bootstrap-css-only';
 import Scroll from './components/utils/Scroll';
 
 
-class App extends React.Component() {
+class App extends React.Component {
   render () {
     return (
       <div>

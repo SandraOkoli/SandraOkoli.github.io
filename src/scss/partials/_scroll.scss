@@ -16,7 +16,7 @@ section {
 .button_group {
   position:fixed;
   top: 0px;
-  right: 0px;
+  text-align: center;
   color: #fff;
 
 }
@@ -34,10 +34,10 @@ button {
   padding: 20px;
   font-weight: bold;
   font-size: 14px;
-  float: left;
   border: none;
   background: none;
   color: #fff;
+  outline: none;
 }
 
 button:hover {

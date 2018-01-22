@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Source+Sans+Pro');
+
 .about {
   button {
     border: 1px solid white;
@@ -6,13 +8,21 @@
   }
 
   h1:first-of-type {
-    font-weight: 800;
+    font-weight: 100;
     font-size: 46px;
+
+    span {
+      color: #bf9b30;
+      font-family: 'Source Sans Pro', sans-serif;
+      font-weight: 900;
+    }
   }
 
   p {
     margin: 80px;
     font-size: 1.1em;
+    letter-spacing: 0.18em;
+    text-align: center;
   }
 
   img {

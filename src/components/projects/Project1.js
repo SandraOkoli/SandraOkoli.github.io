@@ -6,9 +6,10 @@ const Project1 = () => {
     <div className="container">
       <h1>Projects</h1>
       <h3>Muse</h3>
+      <hr/>
       <div className="row">
         <div className="col-md-6">
-          <img className="img-responsive"     src="http://www.bigredsawmill.com/wp-content/plugins/LayerSlider_wp_3.6/sampleslider/home-imac.png"/>
+          <img className="img-responsive" src="https://image.ibb.co/dt8V9G/muse_mac.png" />
         </div>
         <div className="row">
           <div className="col-md-6">
