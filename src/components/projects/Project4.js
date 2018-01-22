@@ -12,9 +12,9 @@ const Project4 = () =>  {
         <div className="row">
           <div className="col-md-6">
             <h3>What did I make?</h3>
-            <p> Fed up of the Kardahians? Out of sheer frustration I created my own take on Whack a Mole  featuring, you have guessed it, the Kardashians. Users can select a Kardashian which they have to slap before the time runs out.</p>
+            <p>For my first project of the Web Development Immersive course with General Assembly, I built a game using Javascript, jQuery, HTML5, CSS3. Slap a Doll, featuring the Kardashians is a humorous take on the popular arcade game Whac-A-Mole invented in the 1970s by Aaron Fechter.</p>
             <h3>What technologies were used?</h3>
-            <p> I started off building out a simple two by two grid using DOM manipulation with jQuery to get the basic functionality working. To make the app more scalable, I increased the intensity of the game by adding extra functionality such as setting intervals and appending list items to increase the grid size each time the number of user clicks was equal to the grid base.</p>
+            <p>Using jQuery and DOM manipulation, players can choose between three Kardashians to feature in the game. Using mouse clicks, the user must slap a Kardashian as they appear before the time runs out. Each time a Kardashian is successfully hit, the score is incremented by 10 points. If a user fails to click on time and the score is greater than 0 the score is decremented by 5 points. The game gets faster each time the user goes up a level.</p>
             <div className="logos">
               <i className="devicon-html5-plain-wordmark"></i>
               <i className="devicon-css3-plain-wordmark"></i>
