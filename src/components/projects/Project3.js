@@ -14,7 +14,7 @@ const Project3 = () =>  {
             <h3>What did I make?</h3>
             <p>For this project I created a fully RESTful app with authentication. Users were able to login or register and add themselves to the yearbook and edit and delete their profile.</p>
             <h3>What technologies were used?</h3>
-            <p>I used BCrypt to create hashed passwords and Express jwt to generate tokens to authenticate users.</p>
+            <p>I used BCrypt to create hashed passwords and Express jwt to generate tokens to authenticate users. </p>
             <div className="logos">
               <i className="devicon-javascript-plain"></i>
               <i className="devicon-express-original-wordmark"></i>

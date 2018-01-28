@@ -12,9 +12,9 @@ const Project2 = () =>  {
         <div className="row">
           <div className="col-md-6">
             <h3>What did I make?</h3>
-            <p>For our group project we decided to build an application that plans your night out.</p>
+            <p>An application that plans your night out.</p>
             <h3>What technologies were used?</h3>
-            <p>This was a team project that involved using Github collaboratively to produce a RESTful MEAN stack app. We utilised Google Maps API and Google Places to enable users to search for a location when creating an events. I was tasked with testing (using Mocha, Chai and Istanbul), implementing the comments functionality, created two of the RESTful routes and styled the index and show page.</p>
+            <p>This was a team project that involved using Github collaboratively to produce a RESTful MEAN stack app. We utilised Google Maps API and Google Places to enable users to search for a location when creating events. I was tasked with testing (using Mocha, Chai and Istanbul), implementing the comments functionality, created two of the RESTful routes and styled the index and show page.</p>
             <div className="logos">
               <i className="devicon-mongodb-plain-wordmark"></i>
               <i className="devicon-express-original-wordmark"></i>
